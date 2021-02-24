@@ -12,7 +12,7 @@ except Exception as e:
 
 
 def create_s3bucket(bucket_name):
-    s3_bucketboto3.client(
+    s3_bucket = boto3.client(
         's3',
     )
 
