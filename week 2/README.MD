@@ -1,4 +1,4 @@
-# Week 2 Scripting Like a Developer
+# Week 2: Scripting Like a Developer
 
 The code found in this repository is to help you script like a Developer
 
